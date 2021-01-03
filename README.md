@@ -4,6 +4,7 @@ https://developers.themoviedb.org/
 .
 .
 .
+view demo: https://watch-x.netlify.app/
 # Getting Started with npm install
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
