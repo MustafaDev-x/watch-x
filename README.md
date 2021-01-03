@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# watch-x movies website using The Movie Database API
+https://developers.themoviedb.org/
+.
+.
+.
+.
+# Getting Started with npm install
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
