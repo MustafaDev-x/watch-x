@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 
 
 function Movie({ match }) {
-  const api_key = "bea51ba2a107d386b306209a1885b42d";
+  const api_key = "your key";
   console.log(match.params);
   useEffect(() => {
     fetchItems();
