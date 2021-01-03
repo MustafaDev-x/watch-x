@@ -4,7 +4,7 @@ import MovieItem from "./movieItem";
 
 
 function Movies({ match }) {
-const api_key = "bea51ba2a107d386b306209a1885b42d";
+const api_key = "your key";
 
 console.log(match);
 
