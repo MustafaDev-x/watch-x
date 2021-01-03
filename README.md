@@ -4,6 +4,7 @@ https://developers.themoviedb.org/
 .
 .
 .
+
 view demo: https://watch-x.netlify.app/
 # Getting Started with npm install
 
