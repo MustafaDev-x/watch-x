@@ -1,0 +1,61 @@
+*{
+  background-color: #121212;
+  color: #fff;
+}
+
+.moviecard{
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column-reverse;
+  text-align: end;
+  padding: 10px;
+}
+.movies{
+  
+}
+.space{
+
+  
+}
+
+.row{
+     margin-right: 0; 
+     margin-left: 0;
+}
+
+p{
+  font-size: 13px;
+}
+.page-link{
+  background-color: unset;
+  border: 1px solid #cf1f19;
+  color: #cf1f19;
+}
+.page-link:hover{
+  background-color:  #cf1f19;
+  border: 1px solid #cf1f19;
+  color: #fff;
+}
+
+
+@media screen and (max-width: 900px) {
+.navbar-collapse{
+  flex-basis: 0;
+}}
+
+.end{
+  width: 100%;
+  height: 30vh;
+  background-color: #000;
+  text-align: center;
+  justify-content: center;
+  padding-top: 50px;
+  color: #fff;
+}
+
+.end a{
+  color: #cf1f19;
+}
